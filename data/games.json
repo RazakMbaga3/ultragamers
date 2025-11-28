@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "FIFA 23",
+    "category": "Sports",
+    "console": "PS5, PS4",
+    "coverImage": "/games/fifa23.jpg",
+    "description": "The latest football simulation with realistic gameplay, teams, and online modes."
+  },
+  {
+    "id": 2,
+    "title": "Grand Theft Auto V",
+    "category": "Action, Adventure",
+    "console": "PS5, PS4",
+    "coverImage": "/games/gta5.jpg",
+    "description": "Open-world crime adventure in Los Santos with story, online, and endless chaos."
+  },
+  {
+    "id": 3,
+    "title": "Call of Duty: Modern Warfare II",
+    "category": "Shooter",
+    "console": "PS5, PS4",
+    "coverImage": "/games/codmw2.jpg",
+    "description": "Intense first-person shooter with campaign, multiplayer, and co-op missions."
+  },
+  {
+    "id": 4,
+    "title": "Mortal Kombat 11",
+    "category": "Fighting",
+    "console": "PS5, PS4",
+    "coverImage": "/games/mk11.jpg",
+    "description": "Brutal fighting game with iconic characters, fatalities, and online battles."
+  },
+  {
+    "id": 5,
+    "title": "NBA 2K23",
+    "category": "Sports",
+    "console": "PS5, PS4",
+    "coverImage": "/games/nba2k23.jpg",
+    "description": "Basketball simulation with MyCareer, MyTeam, and realistic NBA gameplay."
+  },
+  {
+    "id": 6,
+    "title": "God of War: Ragnarok",
+    "category": "Action, Adventure",
+    "console": "PS5, PS4",
+    "coverImage": "/games/gowragnarok.jpg",
+    "description": "Epic Norse adventure with Kratos and Atreus battling gods and monsters."
+  },
+  {
+    "id": 7,
+    "title": "Spider-Man: Miles Morales",
+    "category": "Action, Adventure",
+    "console": "PS5, PS4",
+    "coverImage": "/games/spidermanmm.jpg",
+    "description": "Swing through New York as Miles Morales in this superhero action game."
+  },
+  {
+    "id": 8,
+    "title": "Red Dead Redemption 2",
+    "category": "Action, Adventure",
+    "console": "PS4",
+    "coverImage": "/games/rdr2.jpg",
+    "description": "Wild West open-world adventure with story, exploration, and online modes."
+  },
+  {
+    "id": 9,
+    "title": "Tekken 7",
+    "category": "Fighting",
+    "console": "PS4",
+    "coverImage": "/games/tekken7.jpg",
+    "description": "Classic 3D fighting game with deep mechanics and a huge roster."
+  },
+  {
+    "id": 10,
+    "title": "Assassin's Creed Valhalla",
+    "category": "Action, RPG",
+    "console": "PS5, PS4",
+    "coverImage": "/games/acvalhalla.jpg",
+    "description": "Viking adventure with open-world exploration and epic battles."
+  },
+  {
+    "id": 11,
+    "title": "Gran Turismo 7",
+    "category": "Racing",
+    "console": "PS5, PS4",
+    "coverImage": "/games/gt7.jpg",
+    "description": "Realistic racing simulator with hundreds of cars and tracks."
+  },
+  {
+    "id": 12,
+    "title": "Crash Bandicoot 4: It's About Time",
+    "category": "Platformer",
+    "console": "PS5, PS4",
+    "coverImage": "/games/crash4.jpg",
+    "description": "Classic platforming action with new levels and characters."
+  },
+  {
+    "id": 13,
+    "title": "Fortnite",
+    "category": "Battle Royale",
+    "console": "PS5, PS4",
+    "coverImage": "/games/fortnite.jpg",
+    "description": "Popular online battle royale with building, shooting, and events."
+  },
+  {
+    "id": 14,
+    "title": "The Last of Us Part II",
+    "category": "Action, Adventure",
+    "console": "PS4",
+    "coverImage": "/games/tlou2.jpg",
+    "description": "Emotional post-apocalyptic story with stealth and action gameplay."
+  },
+  {
+    "id": 15,
+    "title": "Cyberpunk 2077",
+    "category": "RPG, Action",
+    "console": "PS5, PS4",
+    "coverImage": "/games/cyberpunk2077.jpg",
+    "description": "Futuristic open-world RPG with deep story and customization."
+  },
+  {
+    "id": 16,
+    "title": "WWE 2K22",
+    "category": "Sports, Fighting",
+    "console": "PS5, PS4",
+    "coverImage": "/games/wwe2k22.jpg",
+    "description": "Wrestling simulation with real superstars and modes."
+  },
+  {
+    "id": 17,
+    "title": "Far Cry 6",
+    "category": "Action, Shooter",
+    "console": "PS5, PS4",
+    "coverImage": "/games/farcry6.jpg",
+    "description": "Revolutionary shooter in a tropical open world."
+  },
+  {
+    "id": 18,
+    "title": "Need for Speed Heat",
+    "category": "Racing",
+    "console": "PS4",
+    "coverImage": "/games/nfsheat.jpg",
+    "description": "High-speed street racing with police chases and customization."
+  },
+  {
+    "id": 19,
+    "title": "Ghost of Tsushima",
+    "category": "Action, Adventure",
+    "console": "PS4",
+    "coverImage": "/games/got.jpg",
+    "description": "Samurai open-world adventure in feudal Japan."
+  },
+  {
+    "id": 20,
+    "title": "Resident Evil Village",
+    "category": "Horror, Action",
+    "console": "PS5, PS4",
+    "coverImage": "/games/revillage.jpg",
+    "description": "Survival horror with intense action and story."
+  },
+  {
+    "id": 21,
+    "title": "FIFA 22",
+    "category": "Sports",
+    "console": "PS5, PS4",
+    "coverImage": "/games/fifa22.jpg",
+    "description": "Previous year’s football simulation with updated teams and modes."
+  },
+  {
+    "id": 22,
+    "title": "Call of Duty: Black Ops Cold War",
+    "category": "Shooter",
+    "console": "PS5, PS4",
+    "coverImage": "/games/codcoldwar.jpg",
+    "description": "Cold War era shooter with campaign and multiplayer."
+  },
+  {
+    "id": 23,
+    "title": "Spider-Man",
+    "category": "Action, Adventure",
+    "console": "PS4",
+    "coverImage": "/games/spiderman.jpg",
+    "description": "Swing through New York as Peter Parker in this superhero action game."
+  },
+  {
+    "id": 24,
+    "title": "Uncharted 4: A Thief's End",
+    "category": "Action, Adventure",
+    "console": "PS4",
+    "coverImage": "/games/uncharted4.jpg",
+    "description": "Treasure hunting adventure with Nathan Drake."
+  },
+  {
+    "id": 25,
+    "title": "Crash Team Racing Nitro-Fueled",
+    "category": "Racing",
+    "console": "PS4",
+    "coverImage": "/games/ctr.jpg",
+    "description": "Fun kart racing with classic Crash Bandicoot characters."
+  },
+  {
+    "id": 26,
+    "title": "Minecraft",
+    "category": "Sandbox, Adventure",
+    "console": "PS4",
+    "coverImage": "/games/minecraft.jpg",
+    "description": "Build, explore, and survive in a blocky world."
+  },
+  {
+    "id": 27,
+    "title": "Battlefield V",
+    "category": "Shooter",
+    "console": "PS4",
+    "coverImage": "/games/bfv.jpg",
+    "description": "World War II shooter with large-scale battles."
+  },
+  {
+    "id": 28,
+    "title": "Dragon Ball FighterZ",
+    "category": "Fighting",
+    "console": "PS4",
+    "coverImage": "/games/dbfz.jpg",
+    "description": "Anime fighting game with fast-paced action."
+  },
+  {
+    "id": 29,
+    "title": "Just Dance 2023",
+    "category": "Music, Party",
+    "console": "PS5, PS4",
+    "coverImage": "/games/justdance2023.jpg",
+    "description": "Dance party game with hit songs and multiplayer."
+  },
+  {
+    "id": 30,
+    "title": "Horizon Forbidden West",
+    "category": "Action, RPG",
+    "console": "PS5, PS4",
+    "coverImage": "/games/hfw.jpg",
+    "description": "Post-apocalyptic adventure with robotic creatures and exploration."
+  }
+]
